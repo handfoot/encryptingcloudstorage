@@ -32,10 +32,9 @@ After you register, and confirm your email address, you need to download the Dro
 
 Now your encrypted vault is presented as a filesystem-like drive (with the name you have chosen) that you can access in finder, just as if it is like an external USB drive (except it is encrypted on the cloud), and you can work directly in this vault on sensitive documents.
 
-The encrypted representation of your vault is stored in your Dropbox folder. When you view it, you notice that it consists of encrypted filenames and encrypted files, which are stored in your Dropbox.
+The encrypted representation of your vault is stored in your Dropbox folder. When you view it, you notice that it consists of encrypted filenames and encrypted files, which are stored in your Dropbox. This is how your vault is actually stored in the Dropbox cloud:
 
 ![Encryption](/img/encrypted_vault.cleaned.png)
-*This is how your vault is actually stored in the Dropbox cloud.*
 
 If you have multiple computers, you can also sync and share the same encrypted vault across different computers, giving you access to the same set of files stored on your Dropbox, only with strong encryption. If you want to do this, you can select “Add Vault” and “Open Existing Vault” and open the vault you want to add in your Dropbox by locating the key file in the instructions. If you go this route, be mindful that it is intended for one person (you) to access the files at one time, not for multiple people to access and edit the files simultaneously.
 
