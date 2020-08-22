@@ -22,11 +22,11 @@ After you register, and confirm your email address, you need to download the Dro
 
 - When asked “Where should Cryptomator store the encrypted files of your vault?” select Dropbox.
 
-- Type in a password for encrypting your vault. Optionally you can write down a recovery code, but if you do so, make sure that no one will be able to optain this recovery code in any circumstances, including a raid.
+- Type in a password for encrypting your vault. Optionally you can write down a recovery code, but if you do so, make sure that no one will be able to obtain this recovery code in any circumstances, including a raid.
 
 - Unlock the vault with your password, and reveal it.
 
-Now your encrypted vault is presented as a filesystem-like drive (with the name you have chosen) that you can access in finder, as if it is an external drive, and you can work directly in this vault on sensitive documents.
+Now your encrypted vault is presented as a filesystem-like drive (with the name you have chosen) that you can access in finder, just as if it is like an external USB drive (except it is encrypted on the cloud), and you can work directly in this vault on sensitive documents.
 
 The encrypted representation of your vault is stored in your Dropbox folder. When you view it, you notice that it consists of encrypted filenames and encrypted files, which are stored in your Dropbox.
 
