@@ -16,6 +16,10 @@ After you register, and confirm your email address, you need to download the Dro
 
 ## Using Cryptomator
 
+<p align="center">
+  <img width="65%" src="img/cryptomator.cleaned.png"/>
+</p>
+
 - Download the macOS client of [Cryptomator](https://cryptomator.org/) and install it.
 
 - After you load the program, select “Create New Vault” and give your vault a name like “stuff” or whatever you want to name your encrypted folder.
@@ -30,15 +34,12 @@ Now your encrypted vault is presented as a filesystem-like drive (with the name 
 
 The encrypted representation of your vault is stored in your Dropbox folder. When you view it, you notice that it consists of encrypted filenames and encrypted files, which are stored in your Dropbox.
 
-<p align="center">
-  <img width="50%" src="img/cryptomator.cleaned.png"/>
-</p>
-<!--![Cryptomator](/img/cryptomator.cleaned.png)-->
+![Encryption](/img/encrypted_vault.cleaned.png)
+*This is how your vault is actually stored in the Dropbox cloud.*
 
 If you have multiple computers, you can also sync and share the same encrypted vault across different computers, giving you access to the same set of files stored on your Dropbox, only with strong encryption. If you want to do this, you can select “Add Vault” and “Open Existing Vault” and open the vault you want to add in your Dropbox by locating the key file in the instructions. If you go this route, be mindful that it is intended for one person (you) to access the files at one time, not for multiple people to access and edit the files simultaneously.
 
-You can also create an alias to a folder inside your vault and put that alias on your Desktop for easy access.
-
+<!--You can also create an alias to a folder inside your vault and put that alias on your Desktop for easy access.-->
 **That's it. Please keep your sensitive files secure!**
 
 ---
