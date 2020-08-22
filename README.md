@@ -8,6 +8,10 @@ Cloud storage such as Dropbox and Google Drive are popular tools for activists t
 
 As of writing, [Dropbox](https://www.dropbox.com/basic) offers a free service that gives users 2GB of storage they can access from anywhere. If you are mainly storing documents you are working on, with a few images, and spreadsheets, this should be enough storage capacity. An [earlier guide](https://handfoot.github.io/securitytips/) described how to register for a free Protonmail secure email account anonymously, so I recommend using that account to register for a free Dropbox account.
 
+<p align="left">
+  <img width="50%" src="img/dropbox_local.cleaned.png"></img><img width="50%" src="img/dropbox_dont_share.cleaned.png"></img><br/>
+</p>
+
 After you register, and confirm your email address, you need to download the Dropbox client (for macOS in my case), and install it. Select the local storage + sync option when you install, so you can work on your files offline, and sync with Dropbox whenever you are online (but don't allow Dropbox to access your Desktop, Docs, and other existing folders). Dropbox will create a folder called `Dropbox` in your home directory and will automatically sync when you are connected.
 
 ## Using Cryptomator
