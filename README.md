@@ -47,4 +47,4 @@ If you have multiple computers, you can also sync and share the same encrypted v
 
 ---
 
-*If you would like to help improve this article, feel free to leave your suggestions in [issues](https://github.com/handfoot/securitytips/issues/new), or email handfoot at protonmail dot com*
+*If you would like to help improve this article, feel free to leave your suggestions in [issues](https://github.com/handfoot/encryptingcloudstorage/issues/new), or email handfoot at protonmail dot com*
