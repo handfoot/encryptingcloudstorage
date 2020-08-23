@@ -30,6 +30,8 @@ After you register, and confirm your email address, you need to download the Dro
 
 - Unlock the vault with your password, and reveal it.
 
+![Vault](/img/stuff.cleaned.png)
+
 Now your encrypted vault is presented as a filesystem-like drive (with the name you have chosen) that you can access in finder, just as if it is like an external USB drive (except it is encrypted on the cloud), and you can work directly in this vault on sensitive documents.
 
 The encrypted representation of your vault is stored in your Dropbox folder. When you view it, you notice that it consists of encrypted filenames and encrypted files, which are stored in your Dropbox. This is how your vault is actually stored in the Dropbox cloud:
